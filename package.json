@@ -1,7 +1,7 @@
 {
   "name": "tizenhome-diagnostic",
-  "version": "0.1.0",
-  "description": "TizenHome proxy diagnostic",
+  "version": "0.2.0",
+  "description": "TizenHome HTTP proxy and media diagnostic",
   "packageType": "app",
   "appName": "TizenHome",
   "appPath": "app/index.html",
