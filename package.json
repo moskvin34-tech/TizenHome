@@ -1,7 +1,7 @@
 {
   "name": "tizenhome-diagnostic",
-  "version": "0.10.0",
-  "description": "TizenHome Kabuki bootstrap fix",
+  "version": "0.11.0",
+  "description": "TizenHome startup error capture",
   "packageType": "app",
   "appName": "TizenHome",
   "appPath": "app/index.html",
