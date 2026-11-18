@@ -1,7 +1,7 @@
 {
   "name": "tizenhome-diagnostic",
-  "version": "0.4.0",
-  "description": "TizenHome streaming diagnostics",
+  "version": "0.5.0",
+  "description": "TizenHome stream diagnostics V5",
   "packageType": "app",
   "appName": "TizenHome",
   "appPath": "app/index.html",
