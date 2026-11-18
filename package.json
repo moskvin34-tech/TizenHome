@@ -1,10 +1,9 @@
 {
-  "name": "tizenhome-diagnostic",
-  "version": "0.10.0",
-  "description": "TizenHome Kabuki bootstrap fix",
+  "name": "tizenhome-updater",
+  "version": "1.0.0",
+  "description": "Install and open numbered TizenHome releases",
   "packageType": "app",
-  "appName": "TizenHome",
+  "appName": "TizenHome Update",
   "appPath": "app/index.html",
-  "serviceFile": "service.js",
   "keys": []
 }
