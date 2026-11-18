@@ -1,7 +1,7 @@
 {
   "name": "tizenhome-diagnostic",
-  "version": "0.9.0",
-  "description": "TizenHome experimental anonymous catalog",
+  "version": "0.10.0",
+  "description": "TizenHome Kabuki bootstrap fix",
   "packageType": "app",
   "appName": "TizenHome",
   "appPath": "app/index.html",
