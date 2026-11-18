@@ -1,7 +1,7 @@
 {
   "name": "tizenhome-diagnostic",
-  "version": "0.2.0",
-  "description": "TizenHome HTTP proxy and media diagnostic",
+  "version": "0.3.0",
+  "description": "TizenHome HTTP/SOCKS5 diagnostics and MP4 test",
   "packageType": "app",
   "appName": "TizenHome",
   "appPath": "app/index.html",
