@@ -1,7 +1,7 @@
 {
   "name": "tizenhome-diagnostic",
-  "version": "0.11.0",
-  "description": "TizenHome startup error capture",
+  "version": "0.12.0",
+  "description": "TizenHome isolated storage fix",
   "packageType": "app",
   "appName": "TizenHome",
   "appPath": "app/index.html",
