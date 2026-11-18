@@ -1,7 +1,7 @@
 {
   "name": "tizenhome-diagnostic",
-  "version": "0.5.0",
-  "description": "TizenHome stream diagnostics V5",
+  "version": "0.6.0",
+  "description": "TizenHome YouTube resource diagnostics",
   "packageType": "app",
   "appName": "TizenHome",
   "appPath": "app/index.html",
